@@ -26,7 +26,7 @@
     "nodemailer-smtp-transport": "^2.7.4",
     "pg-promise": "^8.5.3",
     "sendgrid": "^5.2.3",
-    "sequelize": "^5.8.12",
+    "sequelize": "^5.15.1",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {

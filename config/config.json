@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "root",
+    "database": "Vixplor",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+    
+    
+  },
+  "test": {
+    "username": "postgres",
+    "password": "root",
+    "database": "Vixplor",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "M@gn0x#1234",
+    "database": "billionskills",
+    "host": "40.83.121.72",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
